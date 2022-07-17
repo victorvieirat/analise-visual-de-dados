@@ -1,1 +1,0 @@
-# Análise Visual de Dados
