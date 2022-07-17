@@ -4,7 +4,7 @@
 ### Tentativa 1
 {% include TrancamentosxRedexAreaxTurno.html %}
 ### Tentativa 2
-{% includeTrancamentosxRedexAreaxTurno2.html %}
+{% include TrancamentosxRedexAreaxTurno2.html %}
 
 ### Final
 {% include TrancamentosxRedexAreaxTurno3.html %}
