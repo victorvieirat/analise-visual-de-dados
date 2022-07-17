@@ -1,2 +1,1 @@
-# Trancamentos Rede Área Turno
-{% include TrancamentosxRedexAreaxTurno.html %}
+Repositório com arquivos notebook utilizado na matéria Análise Visual de Dados (aqui)[https://victorvieirat.github.io/analise-visual-de-dados/] você pode ver o resultado de algumas das visualizações desenvolvidas
