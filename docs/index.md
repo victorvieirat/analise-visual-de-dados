@@ -2,7 +2,7 @@
 
 ## Quantidade de Trancamentos X Tipo de Rede X Turno X Área
 ### Tentativa 1
-{% include grafico/TrancamentosxRedexAreaxTurno.html %}
+{% include ./grafico/TrancamentosxRedexAreaxTurno.html %}
 ### Tentativa 2
 {% include grafico/TrancamentosxRedexAreaxTurno2.html %}
 
